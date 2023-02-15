@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2352054-e1b5-4abb-b408-5dd40ed50dad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/No120876.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No120882.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No120863.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/ski_project",
+    "last_opened_file_path": "D:/workspace/study-assignment-programmers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,7 +49,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.No120876">
+  <component name="RunManager" selected="Application.No120863">
+    <configuration name="No120863" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No120863" />
+      <module name="study-assignment-programmers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="No120876" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No120876" />
       <module name="study-assignment-programmers" />
@@ -67,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No120863" />
         <item itemvalue="Application.No120876" />
         <item itemvalue="Application.No120882" />
       </list>
@@ -81,7 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676284798548</updated>
       <workItem from="1676284799633" duration="5461000" />
-      <workItem from="1676376993267" duration="4235000" />
+      <workItem from="1676376993267" duration="5041000" />
+      <workItem from="1676454629238" duration="4118000" />
     </task>
     <servers />
   </component>
